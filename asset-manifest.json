@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/exchange-project/static/js/main.9924105e.js",
+    "index.html": "/exchange-project/index.html",
+    "main.9924105e.js.map": "/exchange-project/static/js/main.9924105e.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.9924105e.js"
+  ]
+}
